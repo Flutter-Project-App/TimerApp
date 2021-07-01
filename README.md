@@ -1,4 +1,6 @@
-# flutter_application
+# Timer App
+Countdown Time
+Bloc Pattern, State, UI
 
 ## Structure
 - assets
