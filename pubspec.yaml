@@ -9,9 +9,11 @@ dependencies:
   flutter:
     sdk: flutter
   # StateManagement
+  bloc:
   flutter_bloc:
   tuple:
   freezed_annotation:
+  equatable:
   # JsonParser
   json_annotation:
   # Http Client
